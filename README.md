@@ -22,11 +22,12 @@ The primary objective of this project is to provide a comprehensive AI solution 
 - **Evaluation Metrics:** Use of silhouette score, Davies-Bouldin index, and other metrics to evaluate the effectiveness of different segmentation strategies.
 - **Visualization Tools:** Interactive dashboards and visualizations to explore the characteristics of different customer segments and their behaviors.
 - **Predictive Analytics:** Integration of predictive models to forecast future trends within each customer segment and identify cross-sell and up-sell opportunities.
+- **Features Dimensions Reduction:** Using various models to reduce the dimensionality of the features by UMAP and T-SNE.
 
 ## Technologies Used
 
 - **Python:** For data preprocessing, modeling, and analysis.
-- **Scikit-learn:** For implementing machine learning algorithms.
+- **Scikit-learn:** For implementing different machine learning algorithms.
 - **Pandas & NumPy:** For data manipulation and numerical calculations.
 - **Matplotlib & Seaborn:** For data visualization.
 - **Jupyter Notebook:** For interactive development and documentation.
